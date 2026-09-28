@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers>=4.49.0
+datasets
+accelerate
+termcolor
+numpy
+pillow
+math-verify
+word2number
+socksio

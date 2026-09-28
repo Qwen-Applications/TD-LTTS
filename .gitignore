@@ -1,0 +1,41 @@
+# Experiment outputs
+/result/
+/results/
+/outputs/
+/src/result/
+/wandb/
+
+# Python caches and test caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# Local data/model artifacts
+/data/
+/dataset/
+/model/
+/models/
+/checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# OS/editor metadata
+.DS_Store

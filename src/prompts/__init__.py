@@ -1,0 +1,1 @@
+from .solver_prompts import AIME_2024_prompt, HallusionBench_prompt, LogicVista_prompt, MATH_500_prompt, MMStar_prompt, MMMU_prompt, MathVista_prompt, RealWorldQA_prompt, ScienceQA_prompt, gsm8k_prompt
